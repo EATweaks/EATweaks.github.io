@@ -1,6 +1,6 @@
 #!/bin/sh
 apt-ftparchive packages ./debs > Packages
-bzip1 -k Packages
+bzip2 -k Packages
 gzip -c Packages > Packages.gz
 git add --all
 git commit -m "update"
