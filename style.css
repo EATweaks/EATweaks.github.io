@@ -28,7 +28,7 @@ h1.title{
     padding: 0.5em;/*文字周りの余白*/
     color: black;/*文字を白に*/
     border-radius: 0.5em;/*角の丸み*/
-    word-break: keep-all;
+    word-wrap: normal;
 }
 h1.cydia{
     width: 100px;
