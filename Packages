@@ -1,68 +1,16 @@
 Package: com.eatweaks.hidetwname
+Version: 0.0.3-2+debug
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
 Maintainer: EA!
-Installed-Size: 360
+Installed-Size: 676
 Depends: mobilesubstrate
-Filename: ./debs/com.eatweaks.hidetwname_0.0.1-1+debug_iphoneos-arm.deb
-Size: 99966
-MD5sum: 555c5a2f8d9a6a9330263783b02395cd
-SHA1: ae9d859457eae3b9eba15d036bc7263814d4d036
-SHA256: 4a8bee2603ff2803590ad227ba53a198ef89f6720bb0c8e11e0f1fa311e1ba28
-SHA512: 148587d78a9bb8ac156161dad0a8ccb6db761a3e8048261703b5728f1f2aceb8f698eca187c9f79f8bcc6bc1b9b314c5954865e31b2732af29b1d896a5ea08e9
-Description: Hide twitter user name&user account name.
-Name: HideTwName
-Author: EA!
-
-Package: com.eatweaks.hidetwname
-Architecture: iphoneos-arm
-Version: 0.0.2-1+debug
+Filename: ./debs/com.eatweaks.hidetwname_0.0.3-2+debug_iphoneos-arm.deb
+Size: 91102
+MD5sum: 64868468825a246bd5c63fc28dcfdf6a
+SHA1: 6ecedcdbb09bb0a4ecd49bf395ff8468f1037212
+SHA256: 21c6d642a950ea33b34e90ea065b554020ca35e5807ab97f65bec0b861d7c80d
 Section: Tweaks
-Maintainer: EA!
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: ./debs/com.eatweaks.hidetwname_0.0.2-1+debug_iphoneos-arm.deb
-Size: 86096
-MD5sum: 8242995b61463c63a611eaf41fe77ed2
-SHA1: be412851c4b0baa7e48096661ddc492b262a9501
-SHA256: 5ee9e5b79cbb36a5574bf1eb39172a5404c247bc72a6c5637974a12555db90c8
-SHA512: 4b44e3c3e360024b035abbefcf1bb0c3aaf74ad8a3da71f7fb9e7c12ca2603c4de31fc7c05ed5bca855c5dbb44834e30eabc532c17114acd88fac07d54deee2c
-Description: Hide twitter  account&user name.(Not support ARM7s and ARM64e devices!)
-Name: HideTwName
+Description: Hide twitter account&user name.  Please uninstall old(≦0.0.2) version before install.
 Author: EA!
-
-Package: com.eatweaks.hidetwname
-Architecture: iphoneos-arm
-Version: 0.0.2-12+debug
-Section: Tweaks
-Maintainer: EA!
-Installed-Size: 504
-Depends: mobilesubstrate
-Filename: ./debs/com.eatweaks.hidetwname_0.0.2-12+debug_iphoneos-arm.deb
-Size: 89234
-MD5sum: c18af8f27e9d4a0964541f1aabbaac7e
-SHA1: 7f7a43a673068af01d608dcb9b58a0abcf0146d3
-SHA256: 11ab71d2a8c46116ac45b4f38bd313553a1390a8d5c9fb876f1a857e0aa2045d
-SHA512: ed85926c1f68e156b3e61f3cd4bc1d1005084063c239cb879c94b071093ab9eb24c06face0d098a9c4b8cb7497bed966d279611cb4fb8bfdcbafc73514387f03
-Description: Hide twitter  account&user name.
 Name: HideTwName
-Author: EA!
-
-Package: com.eatweaks.hidetwname
-Architecture: iphoneos-arm
-Version: 0.0.2-5+debug
-Section: Tweaks
-Maintainer: EA!
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: ./debs/com.eatweaks.hidetwname_0.0.2-5+debug_iphoneos-arm.deb
-Size: 87150
-MD5sum: 381ab3e67c0f2b5aeb9a16c3f88e5cd1
-SHA1: 72f43c7322c6ed7e339d32d7b8aa1c7eb84db397
-SHA256: 6955994a2f12b5b0c3bc5647bff373d94a2600203fbecd43a33e9c4d5ac82c5d
-SHA512: 974e671ff084d2d8824c67a490f6fd06442165fdc2e15650e30a041f4d4e81167b4ee41b542eddc3ba2d41b89e1bb3ed41b81ba3190d1a6d03711b5a05078b7b
-Description: Hide twitter  account&user name.(Not support ARM7s and ARM64e devices!)
-Name: HideTwName
-Author: EA!
 
