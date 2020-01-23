@@ -10,7 +10,7 @@ MD5sum: 62c206d6d5bb570b5a600324d2910c64
 SHA1: 55ebab70675debfc42cc4334167a9ce4180817a0
 SHA256: 4dee11fa7d86a8cecd5dc93632a35750d1f14c72685e6b682f5b9abc25e719e3
 Section: Tweaks
-Description: Hide twitter account&user name.  Please uninstall old(≦0.0.2) version before install.
+Description: Hide twitter account&user name.  Please uninstall old(≦0.0.2) version before install.  Will not work on iOS12! Sorry😭 
 Author: EA!
 Name: HideTwName
 
