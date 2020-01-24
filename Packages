@@ -1,16 +1,16 @@
 Package: com.eatweaks.hidetwname
-Version: 0.0.3-59+debug
+Version: 0.0.3-95+debug
 Architecture: iphoneos-arm
 Maintainer: EA!
-Installed-Size: 696
+Installed-Size: 732
 Depends: mobilesubstrate
-Filename: ./debs/com.eatweaks.hidetwname_0.0.3-59+debug_iphoneos-arm.deb
-Size: 96406
-MD5sum: 62c206d6d5bb570b5a600324d2910c64
-SHA1: 55ebab70675debfc42cc4334167a9ce4180817a0
-SHA256: 4dee11fa7d86a8cecd5dc93632a35750d1f14c72685e6b682f5b9abc25e719e3
+Filename: ./debs/com.eatweaks.hidetwname_0.0.3-95+debug_iphoneos-arm.deb
+Size: 98866
+MD5sum: 6d3187863a2ba98b0d81c2bfc8f2e2ab
+SHA1: b8b52c5e91761905cc52a81fbcd499efa3134b8f
+SHA256: a61efcf1ef12e27c82bb01f78562fcfc67132525a8167cf0407eee7d4145bc2b
 Section: Tweaks
-Description: Hide twitter account&user name.  Please uninstall old(≦0.0.2) version before install.  Will not work on iOS12! Sorry😭 
+Description: Hide twitter account&user name.  Please uninstall old(≦0.0.2) version before install.
 Author: EA!
 Name: HideTwName
 
