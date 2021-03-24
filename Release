@@ -4,5 +4,5 @@ Suite: stable
 Version: 1.0
 Codename: ea
 Architectures: iphoneos-arm
-Compornent: main
+Components: main
 Description: Japanese NIT student
